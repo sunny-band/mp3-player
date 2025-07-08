@@ -22,3 +22,4 @@ Credits for Images:
 - Play, Pause, Forward, Back - nawicon
 - Stop - Pixel Perfect
 
+<img width="856" height="532" alt="Image" src="https://github.com/user-attachments/assets/7d85834c-e6e1-4711-a4f9-443a85cae670" />
