@@ -11,7 +11,7 @@ Libraries used:
 
 Currently functional:
 - Play/Stop button functionality
-- Load MP3 files (multiple) via file dialog
+- Load MP3 files via file dialog
 
 
 
