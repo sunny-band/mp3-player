@@ -9,6 +9,12 @@ Libraries used:
 
 
 
+Currently functional:
+- Play/Stop button functionality
+- Load MP3 files (multiple) via file dialog
+
+
+
 Need to implement in the future:
 - The rest of the button functionalities: Prev/Next/Pause
 - Queueing up/playing the next song automatically (if there are multiple MP3 files)
@@ -18,7 +24,8 @@ Need to implement in the future:
 - Add a visualizer (similarly to Windows Media Player)
 
 
-Credits for Images:
+
+Credits for images:
 - Play, Pause, Forward, Back - nawicon
 - Stop - Pixel Perfect
 
